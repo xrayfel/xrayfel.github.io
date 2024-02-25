@@ -41,9 +41,9 @@ a.button2 small {
 header a.button2 {
   position: relative;
   margin-top: 1rem;
-  right: 0;
   background: transparent url(https://xrayfel.github.io/images/schedulebutton.png) 0 0 no-repeat;
 }
+
 
 a.button3 {
   width: 134px;
@@ -62,27 +62,5 @@ a.button3 small {
 header a.button3 {
   position: relative;
   margin-top: 1rem;
-  right: 0;
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
-
-.buttoncontainer {
-  position: relative;
-}
-
-.buttoncontainer > * {
-  position: absolute;
-}
-
-.register{
-   margin-top: 1rem;
-}
-.venue{
-   margin-top: 1rem;
-}
-.program{
-   margin-top: 1rem;
-}
-
-
-
