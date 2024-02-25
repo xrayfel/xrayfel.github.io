@@ -10,3 +10,11 @@ header {
   background: #ed850e url(./images/logo.png) 0 0 repeat-x;
   border-bottom: solid 0.5px #ed850e;
 }
+
+header a.button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(./images/button.png) 0 0 no-repeat;
+}
+
