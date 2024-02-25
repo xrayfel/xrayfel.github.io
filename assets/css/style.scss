@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 a.button {
+  display: inline-block;
+  margin-bottom: 1rem;
   width: 134px;
   height: 58px;
   padding-top: 22px;
