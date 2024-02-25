@@ -18,10 +18,14 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
+  display: inline-block;
+  margin-bottom: 1rem;
   background: transparent url(https://xrayfel.github.io/images/registrationbutton.png) 0 0 no-repeat;
 }
 
 a.button2 {
+  display: inline-block;
+  margin-bottom: 1rem;
   width: 134px;
   height: 58px;
   padding-top: 22px;
@@ -43,6 +47,8 @@ header a.button2 {
 
 
 a.button3 {
+  display: inline-block;
+  margin-bottom: 1rem;
   width: 134px;
   height: 58px;
   padding-top: 22px;
@@ -57,8 +63,8 @@ a.button3 small {
   font-size: 11px;
 }
 header a.button3 {
-  position: relative;
-  margin-top: 1rem;
+  display: inline-block;
+  margin-bottom: 1rem;
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
 
