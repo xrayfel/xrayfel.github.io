@@ -62,22 +62,23 @@ header a.button3 {
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
 
-.buttoncontainer{
+header .buttoncontainer{
   position: relative;
-}
-
-.register{
-  position: absolute;
   top: 0;
   right: 0;
 }
-.program{
+
+heder .register{
   position: absolute;
-  top: 0.5em;
-  right: 0;
+  top: -100%;
 }
-.venue{
+
+header .program{
   position: absolute;
-  top: 1em;
-  right: 0;
+  top: -50%;
+}
+
+header .venue{
+  position: absolute;
+  top: 0%;
 }
