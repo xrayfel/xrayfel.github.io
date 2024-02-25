@@ -21,7 +21,7 @@ title: Theory around XFELs
 
 <h1>Workshop venue: </h1>
   
-  The workshop will be held in the Campus Saint Charles of Aix-Marseille University. The campus is 5 minutes walk from the central train and bus stations (Gare Saint Charles), and 20 minutes walk from the old port in the city center (Vieux Port).
+  The workshop will be held in the Campus Saint Charles of Aix-Marseille University. The campus is 5 minutes walk from the central train and bus stations (Gare Saint Charles), and 20 minutes walk from the old port in the city center (Vieux Port).<br>
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.3746211528778085%2C43.30169594258887%2C5.382388830184937%2C43.307473541273524&amp;layer=mapnik&amp;marker=43.30458481056926%2C5.378504991531372" style="border: 1px solid black"></iframe><br/><!--<small><a href="https://www.openstreetmap.org/?mlat=43.30458&amp;mlon=5.37850#map=17/43.30458/5.37850&amp;layers=N">View Larger Map</a></small>-->
 
