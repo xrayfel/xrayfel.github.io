@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <style>
-    .scaleLOGO {
+        <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.scaleLOGO {
       width: 100%;
       max-width: max-content;
     }
@@ -30,11 +36,21 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <div id="buttoncontainer" class="buttoncontainer">
-          <div id="register" class="register"><a href="./register.html" class="button">Registration</a></div>  
-          <div id="program" class="program"><a href="./program.html" class="button2">Program</a></div>  
-          <div id="venue" class="venue"><a href="./venue.html" class="button3">Venue</a></div></div>
-        </div>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m"><a href="./register.html" class="button">Registration</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><a href="./program.html" class="button2">Program</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"><a href="./venue.html" class="button3">Venue</a></td>
+  </tr>
+</tbody>
+</table>
       </div>
     </header>
 
