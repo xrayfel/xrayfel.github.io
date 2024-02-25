@@ -64,3 +64,19 @@ header a.button3 {
   margin-top: 1rem;
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
+
+.buttoncontainer{
+  position: relative;
+}
+
+.register{
+  position: absolute;
+  margin-bottom: 1em;
+}
+.program{
+  position: absolute;
+  margin-bottom: 1em;
+}
+.venue{
+  position: absolute;
+}
