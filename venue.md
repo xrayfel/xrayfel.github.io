@@ -42,7 +42,7 @@ Public transportation from the airport directly to the Gare Saint Charles bus st
 
 <h1>Tourism: </h1>
 
-For tourism information for visiting Marseille and suroundings, visit: <a href="https://www.marseille-tourisme.com/en/" target="_blank"> https://www.marseille-tourisme.com/</a>
+For tourism information for visiting Marseille and suroundings, visit: <a href="https://www.marseille-tourisme.com/en/" target="_blank"> https://www.marseille-tourisme.com/</a><br>
 
 <img src="./images/calanques.jpg" />
 
