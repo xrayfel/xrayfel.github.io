@@ -3,18 +3,66 @@
 
 @import "{{ site.theme }}";
 
-header {
-  padding-top: 30px;
-  padding-bottom: 30px;
+a.button {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
   font-family: "Gill Sans", sans-serif;
-  background: #ed850e url(./images/logo.png) 0 0 repeat-x;
-  border-bottom: solid 0.5px #ed850e;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
 }
-
+a.button small {
+  display: block;
+  font-size: 11px;
+}
 header a.button {
-  position: sticky;
+  position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(./images/button.png) 0 0 no-repeat;
+  background: transparent url(../images/button.png) 0 0 no-repeat;
+}
+
+a.button2 {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.button2 small {
+  display: block;
+  font-size: 11px;
+}
+header a.button2 {
+  position: absolute;
+  top: 10;
+  right: 0;
+  background: transparent url(../images/button.png) 0 0 no-repeat;
+}
+
+a.button3 {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.button3 small {
+  display: block;
+  font-size: 11px;
+}
+header a.button3 {
+  position: absolute;
+  top: 20;
+  right: 0;
+  background: transparent url(../images/button.png) 0 0 no-repeat;
 }
 
