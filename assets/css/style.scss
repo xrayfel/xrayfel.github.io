@@ -64,18 +64,20 @@ header a.button3 {
 
 .buttoncontainer{
   position: relative;
-  top: 0;
-  right: 0;
 }
 
 .register{
   position: absolute;
-  margin-bottom: 1em;
+  top: 0;
+  right: 0;
 }
 .program{
   position: absolute;
-  margin-bottom: 1em;
+  top: 0.5em;
+  right: 0;
 }
 .venue{
   position: absolute;
+  top: 1em;
+  right: 0;
 }
