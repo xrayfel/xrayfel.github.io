@@ -2,6 +2,7 @@
 <html>
 <style>
 .page-header {
+  font-family: "Gill Sans", sans-serif;
   color: #000;
   text-align: center;
   background-color: $header-bg-color;
