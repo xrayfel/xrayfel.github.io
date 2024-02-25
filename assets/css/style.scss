@@ -68,7 +68,7 @@ header .buttoncontainer{
   right: 0;
 }
 
-heder .register{
+header .register{
   position: absolute;
   top: -100%;
 }
@@ -81,4 +81,15 @@ header .program{
 header .venue{
   position: absolute;
   top: 0%;
+}
+
+.page-header {
+  font-family: "Gill Sans", sans-serif;
+  color: #000;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url("./images/logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
 }
