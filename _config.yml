@@ -1,8 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Theory around X-ray Free Electron Lasers
+title: Theory around XFELs
 description: Workshop, 18th to 20th November 2024, Campus Saint Charles, Aix-Marseille University, Marseille.
-avatar: imgages/logo.png                         # Empty for no avatar in navbar
-favicon: images/favicon.ico                             # Icon displayed in the tab
-
