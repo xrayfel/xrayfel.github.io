@@ -17,8 +17,8 @@ title: Theory around XFELs
 </style>
 <body>
 
+<img src="./images/vieuxport.jpg" />
 
-  
 <h1>Workshop venue: </h1>
   
   The workshop will be held in the Campus Saint Charles of Aix-Marseille University. The campus is 5 minutes walk from the central train and bus stations (Gare Saint Charles), and 20 minutes walk from the old port in the city center (Vieux Port).
@@ -43,6 +43,8 @@ Public transportation from the airport directly to the Gare Saint Charles bus st
 <h1>Tourism: </h1>
 
 For tourism information for visiting Marseille and suroundings, visit: <a href="https://www.marseille-tourisme.com/en/" target="_blank"> https://www.marseille-tourisme.com/</a>
+
+<img src="./images/calangues.jpg" />
 
 </body>
 </html>
