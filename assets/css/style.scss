@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: "Gill Sans", sans-serif;
+  background: #ed850e url(./images/logo.png) 0 0 repeat-x;
+  border-bottom: solid 0.5px #ed850e;
+}
