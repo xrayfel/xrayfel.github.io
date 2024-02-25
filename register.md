@@ -14,6 +14,6 @@
 }
 </style>
 <body>
-
+Registration not yet open. Stay tuned!
 </body>
 </html>
