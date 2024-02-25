@@ -39,7 +39,9 @@ a.button2 small {
   font-size: 11px;
 }
 header a.button2 {
-  position: relative;
+  position: fixed;
+  top: 1;
+  right: 0;
   background: transparent url(https://xrayfel.github.io/images/schedulebutton.png) 0 0 no-repeat;
 }
 
@@ -58,7 +60,9 @@ a.button3 small {
   font-size: 11px;
 }
 header a.button3 {
-  position: relative;
+  position: fixed;
+  top: 2;
+  right: 0;
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
 
