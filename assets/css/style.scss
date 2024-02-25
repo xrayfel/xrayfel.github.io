@@ -12,7 +12,7 @@ header {
 }
 
 header a.button {
-  position: absolute;
+  position: sticky;
   top: 0;
   right: 0;
   background: transparent url(./images/button.png) 0 0 no-repeat;
