@@ -62,32 +62,12 @@ header a.button3 {
   background: transparent url(https://xrayfel.github.io/images/locationbutton.png) 0 0 no-repeat;
 }
 
-header .buttoncontainer{
-  position: relative;
-  top: 0;
-  right: 0;
-}
-
-header .register{
-  position: absolute;
-  top: -100%;
-}
-
-header .program{
-  position: absolute;
-  top: -50%;
-}
-
-header .venue{
-  position: absolute;
-  top: 0%;
-}
 
 .page-header {
   font-family: "Gill Sans", sans-serif;
   color: #000;
   text-align: center;
-  background-image: url("./images/logo.png");
+  background-image: url("https://xrayfel.github.io/images/logo.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
