@@ -3,9 +3,9 @@
 
 <style type="text/css">
 .page-header {
-  color: #000;
+  color: white;
   text-align: center;
-  background-color: #000;
+  background-color: white;
   background-image: url("./images/FELheader.png");
   background-repeat: no-repeat;
   background-size: cover;
