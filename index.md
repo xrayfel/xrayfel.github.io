@@ -24,16 +24,16 @@
   
 <b>Organizing Committee:</b> 
 <ul>
-  <li> Miquel Huix-Rotllant, Institut de Chimie Radicalaire, Aix-Marseille University </li>
-  <li> Marie Labeye, Pasteur, ENS PSL </li>
+  <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
+  <li> Marie Labeye, <i>Pasteur</i>, ENS PSL </li>
 </ul>
 <b>Scientific Committee:</b> 
 <ul>
-  <li> Claudio Attacalite, Centre Interdisciplinaire de Nanoscience de Marseille, Aix-Marseille University </li>
-  <li> Eleonora Luppi, Laboratoire Chimie Théorique, Sorbonne University </li>
-  <li> Olivier Peyrusse, Lasers, Plasmas et Procédés Photoniques, Aix-Marseille University </li>
-  <li> Morgane Vacher, Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation, Nantes University </li>
-  <li> Nicolas Sisourat, Laboratoire de Chimie Physique Matière et Rayonnemen, Sorbonne University </li>
+  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li>
+  <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
+  <li> Olivier Peyrusse, <i>Lasers, Plasmas et Procédés Photoniques</i>, Aix-Marseille University </li>
+  <li> Morgane Vacher, <i>Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation</i>, Nantes University </li>
+  <li> Nicolas Sisourat, <i>Laboratoire de Chimie Physique Matière et Rayonnement</i>, Sorbonne University </li>
 </ul>
 </body>
 </html>
