@@ -25,13 +25,13 @@ title: Theory around XFELs
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.3746211528778085%2C43.30169594258887%2C5.382388830184937%2C43.307473541273524&amp;layer=mapnik&amp;marker=43.30458481056926%2C5.378504991531372" style="border: 1px solid black"></iframe><br/><!--<small><a href="https://www.openstreetmap.org/?mlat=43.30458&amp;mlon=5.37850#map=17/43.30458/5.37850&amp;layers=N">View Larger Map</a></small>-->
 
-<h1>From Airport </h1>
+<h1>Airport Bus (Navette Aéroport) </h1>
 
 Public transportation from the airport directly to the Gare Saint Charles bus station is available. Take bus line 91. More information can be found here: <a href="https://www.marseille-airport.com/access-car-parks/access/bus/marseille-st-charles-station" target="_blank">https://www.marseille-airport.com</a>
 
-<h1>Public transportation </h1>
+<h1>City public transportation</h1>
 
-The closest station to the workshop site is the metro station Saint Charles, which is the stop of metro lines 1 and 2. For more information on the public transports in Marseille, visit the website:<br>
+The closest station to the workshop site is the metro station Saint Charles, which is the stop of metro lines 1 and 2. For more information on the public transports in Marseille and prices, visit the official website:<br>
 <a href="https://www.rtm.fr/en" target="_bulk">https://www.rtm.fr</a><br>
 
 <img src="./images/plan-marseille.png" width="600" />
