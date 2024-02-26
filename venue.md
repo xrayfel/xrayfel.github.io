@@ -34,7 +34,7 @@ Public transportation from the airport directly to the Gare Saint Charles bus st
 The closest station to the workshop site is the metro station Saint Charles, which is the stop of metro lines 1 and 2. For more information on the public transports in Marseille, visit the website:<br>
 <a href="https://www.rtm.fr/en" target="_bulk">https://www.rtm.fr</a><br>
 
-<img src="./images/plan-marseille.png" />
+<img src="./images/plan-marseille.png" width="64" />
 
 
 <h1>Hotels nearby the campus and the city center </h1>
