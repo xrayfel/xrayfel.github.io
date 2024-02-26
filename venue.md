@@ -19,17 +19,25 @@ title: Theory around XFELs
 
 <img src="./images/vieuxport.jpg" />
 
-<h1>Workshop venue: </h1>
+<h1>Workshop venue </h1>
   
   The workshop will be held in the Campus Saint Charles of Aix-Marseille University. The campus is 5 minutes walk from the central train and bus stations (Gare Saint Charles), and 20 minutes walk from the old port in the city center (Vieux Port).<br>
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.3746211528778085%2C43.30169594258887%2C5.382388830184937%2C43.307473541273524&amp;layer=mapnik&amp;marker=43.30458481056926%2C5.378504991531372" style="border: 1px solid black"></iframe><br/><!--<small><a href="https://www.openstreetmap.org/?mlat=43.30458&amp;mlon=5.37850#map=17/43.30458/5.37850&amp;layers=N">View Larger Map</a></small>-->
 
-<h1>From Airport: </h1>
+<h1>From Airport </h1>
 
 Public transportation from the airport directly to the Gare Saint Charles bus station is available. Take bus line 91. More information can be found here: <a href="https://www.marseille-airport.com/access-car-parks/access/bus/marseille-st-charles-station" target="_blank">https://www.marseille-airport.com</a>
 
-<h1>Hotels nearby the campus and the city center: </h1>
+<h1>Public transportation </h1>
+
+The closest station to the workshop site is the metro station Saint Charles, which is the stop of metro lines 1 and 2. For more information on the public transports in Marseille, visit the website:<br>
+<a href="https://www.rtm.fr/en" target="_bulk">https://www.rtm.fr</a><br>
+
+<img src="./images/plan-marseille.png" />
+
+
+<h1>Hotels nearby the campus and the city center </h1>
 <ul>
   <li>Holiday Inn Express Marseille - Saint Charles - <a href="https://www.ihg.com/holidayinnexpress/hotels/fr/fr/marseille/mrssc/hoteldetail" target="_blank"> Website </a></li>
   <li>Ibis Styles Marseille Gare Saint-Charles - <a href="https://all.accor.com/hotel/A1J8/index.en.shtml" target="_blank"> Website </a></li>
@@ -40,9 +48,10 @@ Public transportation from the airport directly to the Gare Saint Charles bus st
  - <a href="https://www.new-hotel.com/fr/hotels-marseille/le-quai-vieux-port" target="_blank"> Website </a></li>
 </ul>
 
-<h1>Tourism: </h1>
+<h1>Tourism </h1>
 
-For tourism information for visiting Marseille and suroundings, visit: <a href="https://www.marseille-tourisme.com/en/" target="_blank"> https://www.marseille-tourisme.com/</a><br>
+The official website of Marseille tourism provides all information for visiting Marseille and suroundings:<br>
+<a href="https://www.marseille-tourisme.com/en/" target="_blank"> https://www.marseille-tourisme.com/</a><br>
 
 <img src="./images/calanques.jpg" />
 
