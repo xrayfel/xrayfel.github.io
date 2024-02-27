@@ -25,7 +25,7 @@
 <b>Organizing Committee:</b> 
 <ul>
   <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
-  <li> Marie Labeye, <i>Pasteur</i>, ENS PSL </li>
+  <li> Marie Labeye, <i>PASTEUR</i>, ENS PSL </li>
 </ul>
 <b>Scientific Committee:</b> 
 <ul>
