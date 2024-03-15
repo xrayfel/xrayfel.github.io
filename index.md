@@ -22,13 +22,10 @@
   <li> Registration closes: 31st October 2024 </li>
 </ul>
   
-<b>Organizing Committee:</b> 
+<b>Scientific Committee:</b> 
 <ul>
   <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
   <li> Marie Labeye, <i>PASTEUR</i>, ENS PSL </li>
-</ul>
-<b>Scientific Committee:</b> 
-<ul>
   <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li>
   <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
   <li> Olivier Peyrusse, <i>Lasers, Plasmas et Procédés Photoniques</i>, Aix-Marseille University </li>
