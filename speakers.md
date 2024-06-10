@@ -32,7 +32,7 @@
 <li>	<b>Trond	Saue</b>,	LCPQ, Université de Toulouse, France. 	</li>
 <li>	<b>André	Severo Pereira Gomes</b>,	PhLam, Université de Lille, France. 	</li>
 <li>	<b>Francesco	Sottile</b>,	École Polytechnique, Paris, France. 	</li>
-<li>	<b>Artur Tamm</b>, University of Tartu, Estonia. 	</li>
+<li>	<b>Artur Tam</b>, University of Tartu, Estonia. 	</li>
 <li>	<b>Oriol	Vendrell</b>,	University of Heidelberg, Germany. 	</li>
 </ul>
 </body>
