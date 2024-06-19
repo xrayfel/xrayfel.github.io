@@ -18,7 +18,7 @@
 <p>The registration is <b>free of charge</b> but compulsary and the number of participants is limited. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
 <b>Important dates:</b> 
 <ul>
-  <li> Registration opened: <a href="http://xyrayfel.github.io/register.html">register here</a> </li>
+  <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
   <li> Registration closes: 31st October 2024 </li>
 </ul>
   
