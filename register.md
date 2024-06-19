@@ -14,6 +14,6 @@
 }
 </style>
 <body>
-Registration not yet open. Stay tuned!
+<iframe src="https://framaforms.org/registration-workshop-theoryxfel-1718114984" width="100%" height="800" border="0"></iframe>
 </body>
 </html>
