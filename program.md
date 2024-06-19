@@ -27,7 +27,7 @@
 <body>
 
 
-This is a temptative program, it might slightly evolve. The final program will be announced later on.
+This is a temptative schedule, it might slightly evolve. The final program will be announced later on.
 
 <table class="tg"><thead>
   <tr>
