@@ -21,9 +21,9 @@ title: Theory around XFELs
 
 <h1>Workshop venue </h1>
   
-  The workshop will be held in the Campus Saint Charles of Aix-Marseille University. The campus is 5 minutes walk from the central train and bus stations (Gare Saint Charles), and 20 minutes walk from the old port in the city center (Vieux Port).<br>
+  The workshop will be held in the Campus Luminy of Aix-Marseille University, in the "Calanques" Natural Parc. The campus is 1 hour in public transport from the central train and bus stations (Gare Saint Charles), and 46 minutes from the old port in the city center (Vieux Port).<br>
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.3746211528778085%2C43.30169594258887%2C5.382388830184937%2C43.307473541273524&amp;layer=mapnik&amp;marker=43.30458481056926%2C5.378504991531372" style="border: 1px solid black"></iframe><br/><!--<small><a href="https://www.openstreetmap.org/?mlat=43.30458&amp;mlon=5.37850#map=17/43.30458/5.37850&amp;layers=N">View Larger Map</a></small>-->
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.4230618476867685%2C43.225755430637655%2C5.45396089553833%2C43.23696495675549&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/43.2314/5.4385">View Larger Map</a></small>
 
 <h1>Airport Bus (Navette Aéroport) </h1>
 
@@ -37,7 +37,7 @@ The closest station to the workshop site is the metro station Saint Charles, whi
 <img src="./images/plan-marseille.png" width="600" />
 
 
-<h1>Hotels nearby the campus and the city center </h1>
+<h1>Hotels nearby the city center </h1>
 <ul>
   <li>Holiday Inn Express Marseille - Saint Charles - <a href="https://www.ihg.com/holidayinnexpress/hotels/fr/fr/marseille/mrssc/hoteldetail" target="_blank"> Website </a></li>
   <li>Ibis Styles Marseille Gare Saint-Charles - <a href="https://all.accor.com/hotel/A1J8/index.en.shtml" target="_blank"> Website </a></li>
