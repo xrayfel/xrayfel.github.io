@@ -23,7 +23,7 @@
 <li>	<b>Anthony	Ferté</b>,	Center For Free-Electron Laser Science, Hamburg.	</li>
 <li>	<b>Nanna	List</b>, KTH Royal Institute of Technology, Sweden. 	</li>
 <li>	<b>Nikita	Medvedev</b>,	Department of Radiation and Chemical Physics, FZU, Czech Republic. 	</li>
-<li>	<b>Tsveta	Miteva</b>,	LCPMR, Sorbonne Université, Paris France. 	</li>
+<!-- <li>	<b>Tsveta	Miteva</b>,	LCPMR, Sorbonne Université, Paris France. 	</li> -->
 <li>	<b>Antonio	Monari</b>,	ITODYS, Université Paris Cité, France. 	</li>
 <li>	<b>Eva	Muchová</b>,	Department of Physics, UCT Prague, Czech Republic. 	</li>
 <li>	<b>Nina Rohringer</b>,	University of Hamburg, Germany.	</li>
