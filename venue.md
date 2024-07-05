@@ -36,7 +36,7 @@ The bus lines <b>21JET</b> (depart from Métro 2 Rond Point du Prado), <b>B1</b>
 
 Bus lines to Campus Luminy:<br>
 <table><thead>
-  <th>21JET (départ Metro 2 Rond Point du Prado)</th> <th>B1 (départ Metro 1&2 Castellane)</th> <th>24 (départ Metro 2 St. Marguerite Dromel)</th>
+  <th>21JET <br> (fastest, departure Metro 2 Rond Point du Prado)</th> <th>B1  <br> (departure Metro 1&2 Castellane)</th> <th>24  <br> (departure Metro 2 St. Marguerite Dromel)</th>
 </thead>
 <tbody>
   <tr>
