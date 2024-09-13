@@ -18,7 +18,7 @@
   <ul>
 <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li>
 <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li>
-<li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li>
+<!-- <li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li> -->
 <li>	<b>Carlo	Camilloni</b>,	Dipartimento di Bioscienze, Università degli Studi di Milano, Milano, Italy. 	</li>
 <li>	<b>Anthony	Ferté</b>,	Center For Free-Electron Laser Science, Hamburg.	</li>
 <li>	<b>Nanna	List</b>, KTH Royal Institute of Technology, Sweden. 	</li>
