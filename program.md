@@ -45,7 +45,7 @@
   <tr>
     <td class="tg-baqh"> </td>
     <td class="tg-mezc" rowspan="8"> <br> <br> <br> <br><br></td>
-    <td class="tg-yye0"><span style="color:black">High Energy Density</span><br><span style="color:black">(</span>Chair: Olivier Peyrusse<span style="color:black">)</span></td>
+    <td class="tg-yye0"><span style="color:black">High Energy Density/Gas phase</span><br><span style="color:black">(</span>Chair: Olivier Peyrusse<span style="color:black">)</span></td>
     <td class="tg-yye0"><span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td class="tg-amwm">10:30</td>
-    <td class="tg-fe66"><span style="color:black">TBA</span></td>
+    <td class="tg-fe66"><span style="color:black">Nicolas Sisourat</span></td>
     <td class="tg-ve5o"><a href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a></td>
   </tr>
   <tr>
