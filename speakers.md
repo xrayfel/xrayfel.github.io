@@ -24,7 +24,7 @@
 <li>	<b>Nanna	List</b>, KTH Royal Institute of Technology, Sweden. 	</li>
 <li>	<b>Nikita	Medvedev</b>,	Department of Radiation and Chemical Physics, FZU, Czech Republic. 	</li>
 <!-- <li>	<b>Tsveta	Miteva</b>,	LCPMR, Sorbonne Université, Paris France. 	</li> -->
-<li>	<b>Antonio	Monari</b>,	ITODYS, Université Paris Cité, France. 	</li>
+<!-- <li>	<b>Antonio	Monari</b>,	ITODYS, Université Paris Cité, France. 	</li> -->
 <li>	<b>Eva	Muchová</b>,	Department of Physics, UCT Prague, Czech Republic. 	</li>
 <li>	<b>Nina Rohringer</b>,	University of Hamburg, Germany.	</li>
 <li>	<b>Frank	Rosmej</b>,	Physique Atomique des Plasmas Denses, LULI, Institut Polytechnique de Paris, France.	</li>
