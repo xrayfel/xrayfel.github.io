@@ -51,7 +51,7 @@
   <tr>
     <td class="tg-amwm">10:00</td>
     <td class="tg-ve5o"><a target="_blank" href="https://amubox.univ-amu.fr/s/HFDX2oRLBE8GJgd">Frank Rosmej</a></td>
-    <td class="tg-ve5o"><a target="_blank" href="https://amubox.univ-amu.fr/s/HPiniAStYFW5HL8">André Gomes</a></td>
+    <td class="tg-ve5o"><a target="_blank" href="https://amubox.univ-amu.fr/s/HPiniAStYFW5HL8">André Severo Pereira Gomes</a></td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30</td>
