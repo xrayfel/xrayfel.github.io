@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td class="tg-amwm">10:30</td>
-    <td class="tg-fe66"><a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a></td>
+    <td class="tg-ve5o"><a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a></td>
     <td class="tg-ve5o"><a target="_blank" href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a></td>
   </tr>
   <tr>
