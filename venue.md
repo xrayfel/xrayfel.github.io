@@ -27,28 +27,25 @@ The workshop will be held in the Campus Luminy of Aix-Marseille University, in t
 
 <h2 style="color:red;">ATTENTION!! ROOMS DAY 1 (18/11) and DAY 2&3 (19/11 and 20/11) ARE DIFFERENT</h2>
 
-<h3 style="color:cyan;">DAY 1 (18/11): FOLLOW CYAN PATH TO C.I.N.a.M. BUILDING</h3>
-<h3 style="color:green;">DAY 2 (19/11) AND DAY 3 (20/11): FOLLOW GREEN PATH TO HEXAGONE BUILDING</h3>
-
+<p style="color:cyan;">DAY 1 (18/11): FOLLOW CYAN PATH TO C.I.N.a.M. BUILDING</p>
+<p style="color:green;">DAY 2 (19/11) AND DAY 3 (20/11): FOLLOW GREEN PATH TO HEXAGONE BUILDING</p>
 <img src="./images/map-luminy-theoryxfel.png" width="600" />
 
-<h1>Bus stop: LUMINY FACULTÉ (recommended, penultimate stop)</h1>
+See below the interactive maps to the C.I.N.a.M. BUILDING (18/11) and the HEXAGONE BUILDING (19/11 and 20/11) from the LUMINY FACULTE and the CAMPUS DE LUMINY bus stops.
 
+<h3>Bus stop: LUMINY FACULTÉ (recommended, penultimate stop)</h3>
 
-
-<h2>DAY 1 (18/11/24): C.I.N.a.M. BUILDING </h2>
+<p>DAY 1 (18/11/24): C.I.N.a.M. BUILDING </p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d6018.1267694555145!2d5.437617269160283!3d43.2332107869832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d43.234180099999996!2d5.4398005!4m5!1s0x12c9b9adb9d80701%3A0xaffeebbe6913e272!2sLuminy%20Facult%C3%A9%2C%2013009%20Marseille!3m2!1d43.2311656!2d5.4395758999999995!5e1!3m2!1sen!2sfr!4v1731586291742!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<h2>DAY 2 (19/11/24) AND DAY 3 (20/11/24): HEXAGONE BUILDING </h2>
+<p>DAY 2 (19/11/24) AND DAY 3 (20/11/24): HEXAGONE BUILDING </p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m35!1m12!1m3!1d1904.4727782625325!2d5.4399231991146095!3d43.22993579409925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m20!3e2!4m5!1s0x12c9b949649eeacd%3A0xc98f7dc0b48b1d39!2sHexagone%20Amphitheatre%2C%20Avenue%20de%20Luminy%2C%20Marseille!3m2!1d43.2296823!2d5.44086!4m3!3m2!1d43.2306521!2d5.4401082!4m3!3m2!1d43.230816!2d5.4399253!4m4!1s0x12c9b9adc793e17f%3A0x559866f133c2145f!3m2!1d43.23106!2d5.439839999999999!5e1!3m2!1sfr!2sfr!4v1731586894373!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<h1>Bus stop: CAMPUS DE LUMINY (last stop)</h1>
+<h3>Bus stop: CAMPUS DE LUMINY (last stop)</h3>
 
-<h2>DAY 1 (18/11/24): C.I.N.a.M. BUILDING </h2>
+<p>DAY 1 (18/11/24): C.I.N.a.M. BUILDING </p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d4118.076150026536!2d5.439592989335912!3d43.23303251648354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d43.2342844!2d5.4398082!4m5!1s0x12c9b9afab382443%3A0x49c1db8461762e1a!2sCampus%20de%20Luminy%2C%2013009%20Marseille!3m2!1d43.23124!2d5.44401!5e1!3m2!1sfr!2sfr!4v1731584549438!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<h1>DAY 2 (19/11/24) AND DAY 3 (20/11/24): HEXAGONE BUILDING </h1>
+<p>DAY 2 (19/11/24) AND DAY 3 (20/11/24): HEXAGONE BUILDING </p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d2135.2239333400134!2d5.440933666497054!3d43.23013410496164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x12c9b949649eeacd%3A0xc98f7dc0b48b1d39!2sHexagone%20Amphitheatre%2C%20Avenue%20de%20Luminy%2C%20Marseille!3m2!1d43.2296823!2d5.44086!4m3!3m2!1d43.231180099999996!2d5.443575399999999!5e1!3m2!1sfr!2sfr!4v1731586953765!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <h1>City public transportation</h1>
