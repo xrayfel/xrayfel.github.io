@@ -25,8 +25,16 @@ The workshop will be held in the Campus Luminy of Aix-Marseille University, in t
 
 <!--<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.4332971572875985%2C43.22669354534018%2C5.448746681213379%2C43.232298479847344&amp;layer=mapnik&amp;marker=43.22949216841962%2C5.441021919250488" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.22949&amp;mlon=5.44102#map=17/43.22950/5.44102">View Larger Map</a></small>-->
 
+<h2 style="color:red;">ATTENTION!! ROOMS DAY 1 (18/11) and DAY 2&3 (19/11 and 20/11) ARE DIFFERENT</h2>
+
+<h3 style="color:cyan;">DAY 1 (18/11): FOLLOW CYAN PATH TO C.I.N.a.M. BUILDING</h3>
+<h3 style="color:green;">DAY 2 (19/11) AND DAY 3 (20/11): FOLLOW GREEN PATH TO HEXAGONE BUILDING</h3>
+
+<img src="./images/map-luminy-theoryxfel.png" width="600" />
 
 <h1>Bus stop: LUMINY FACULTÉ (recommended, penultimate stop)</h1>
+
+
 
 <h2>DAY 1 (18/11/24): C.I.N.a.M. BUILDING </h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d6018.1267694555145!2d5.437617269160283!3d43.2332107869832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d43.234180099999996!2d5.4398005!4m5!1s0x12c9b9adb9d80701%3A0xaffeebbe6913e272!2sLuminy%20Facult%C3%A9%2C%2013009%20Marseille!3m2!1d43.2311656!2d5.4395758999999995!5e1!3m2!1sen!2sfr!4v1731586291742!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
