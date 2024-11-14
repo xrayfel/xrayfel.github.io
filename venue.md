@@ -23,7 +23,11 @@ title: Theory around XFELs
   
 The workshop will be held in the Campus Luminy of Aix-Marseille University, in the middle of the "Calanques" Natural Parc. The campus is 1 hour in public transport from the central train and bus stations (Gare Saint Charles), and 46 minutes from the old port in the city center (Vieux Port). A combination of Metro and Bus might be required to reach the campus (see more details below).<br>
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.4332971572875985%2C43.22669354534018%2C5.448746681213379%2C43.232298479847344&amp;layer=mapnik&amp;marker=43.22949216841962%2C5.441021919250488" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.22949&amp;mlon=5.44102#map=17/43.22950/5.44102">View Larger Map</a></small>
+<!--<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.4332971572875985%2C43.22669354534018%2C5.448746681213379%2C43.232298479847344&amp;layer=mapnik&amp;marker=43.22949216841962%2C5.441021919250488" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.22949&amp;mlon=5.44102#map=17/43.22950/5.44102">View Larger Map</a></small>-->
+
+<h1>DAY 1: C.I.N.a.M. BUILDING </h1>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d4118.076150026536!2d5.439592989335912!3d43.23303251648354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d43.2342844!2d5.4398082!4m5!1s0x12c9b9afab382443%3A0x49c1db8461762e1a!2sCampus%20de%20Luminy%2C%2013009%20Marseille!3m2!1d43.23124!2d5.44401!5e1!3m2!1sfr!2sfr!4v1731584549438!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <h1>Airport Bus (Navette Aéroport) </h1>
 
