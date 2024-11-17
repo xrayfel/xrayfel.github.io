@@ -16,11 +16,11 @@
 <body>
 <p>The Theory@XFEL workshop will gather together theoreticians and experimentalists with physics, chemistry and biology backgrounds to discuss the state-of-the-art, future prospects and opportunities of theoretical simulations related to X-ray free electron lasers. The workshop will take place from 18th to 20th of November 2024 in Marseille. It will be followed up by the plenary meeting of the GDR XFEL on the 21st and 22nd November 2024.</p>
 <p>The registration is <b>free of charge</b> but compulsary and the number of participants is limited. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
-<b>Important dates:</b> 
+<!--<b>Important dates:</b> 
 <ul>
   <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
   <li> Registration closes: 31st October 2024 </li>
-</ul>
+</ul>-->
   
 <b>Scientific Committee:</b> 
 <ul>
