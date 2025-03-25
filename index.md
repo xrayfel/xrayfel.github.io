@@ -14,22 +14,22 @@
 }
 </style>
 <body>
-<p>The Theory@XFEL workshop will gather together theoreticians and experimentalists with physics, chemistry and biology backgrounds to discuss the state-of-the-art, future prospects and opportunities of theoretical simulations related to X-ray free electron lasers. The workshop will take place from 18th to 20th of November 2024 in Marseille. It will be followed up by the plenary meeting of the GDR XFEL on the 21st and 22nd November 2024.</p>
-<p>The registration is <b>free of charge</b> but compulsary and the number of participants is limited. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
-<!--<b>Important dates:</b> 
+<p>The second edition of Theory@XFEL workshop will take place from 24th to 26th of September 2025 in Paris. The workshop will gather together theoreticians and experimentalists with physics, chemistry and biology backgrounds to discuss the state-of-the-art, future prospects and opportunities of theoretical simulations related to X-ray free electron lasers.</p>
+<p>The registration is <b>free of charge</b> but compulsary. After registration, you will receive a confirmation email acknowledging your registration.</p>
+<b>Important dates:</b> 
 <ul>
   <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
-  <li> Registration closes: 31st October 2024 </li>
-</ul>-->
+  <li> Registration closes: 31st July 2025 </li>
+</ul>
   
 <b>Scientific Committee:</b> 
 <ul>
   <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
   <li> Marie Labeye, <i>PASTEUR</i>, ENS PSL </li>
-  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li>
+<!--  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li> -->
   <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
-  <li> Olivier Peyrusse, <i>Lasers, Plasmas et Procédés Photoniques</i>, Aix-Marseille University </li>
-  <li> Morgane Vacher, <i>Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation</i>, Nantes University </li>
+  <li> Mandy Bethkenhagen, <i>École Polytechnique</i> </li>
+<!--  <li> Morgane Vacher, <i>Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation</i>, Nantes University </li> -->
   <li> Nicolas Sisourat, <i>Laboratoire de Chimie Physique Matière et Rayonnement</i>, Sorbonne University </li>
 </ul>
 </body>
