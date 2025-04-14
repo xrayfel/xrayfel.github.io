@@ -25,7 +25,7 @@
 <b>Scientific Committee:</b> 
 <ul>
   <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
-  <li> Marie Labeye, <i>PASTEUR</i>, ENS PSL </li>
+  <li> Marie Labeye, <i>Chimie Physique et Chimie du Vivant</i>, ENS PSL </li>
 <!--  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li> -->
   <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
   <li> Mandy Bethkenhagen, <i>École Polytechnique</i> </li>
