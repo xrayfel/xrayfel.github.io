@@ -21,15 +21,15 @@
   <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
   <li> Registration closes: 31st July 2025 </li>
 </ul>
+
+<p style="color:#FF0000";><b>ALERT!</b> Fraudulent emails are being sent in the name of the workshop organisers. These are <b>scam emails</b> from ops@gtravelservice.com (or similar) asking for travel details to book your trip. Please, do not reply to these emails; this is not an official workshop communication from theoryxfel@gmail.com.</p>
   
 <b>Scientific Committee:</b> 
 <ul>
   <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
   <li> Marie Labeye, <i>Chimie Physique et Chimie du Vivant</i>, ENS PSL </li>
-<!--  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li> -->
   <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
   <li> Mandy Bethkenhagen, <i>École Polytechnique</i> </li>
-<!--  <li> Morgane Vacher, <i>Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation</i>, Nantes University </li> -->
   <li> Nicolas Sisourat, <i>Laboratoire de Chimie Physique Matière et Rayonnement</i>, Sorbonne University </li>
 </ul>
 </body>
