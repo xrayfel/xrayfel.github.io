@@ -22,7 +22,7 @@
   <li> Registration closes: 31st July 2025 </li>
 </ul>
 
-<p style="color:#FF0000";><b>ALERT!</b> Fraudulent emails are being sent in the name of the workshop organisers. These are <b>scam emails</b> from ops@gtravelservice.com (or similar) asking for travel details to book your trip. Please, do not reply to these emails; this is not an official workshop communication from theoryxfel@gmail.com.</p>
+<br><div style="border : 5px solid red"><b>ALERT!</b> Fraudulent emails are being sent in the name of the workshop organisers. These are <b>scam emails</b> from ops@gtravelservice.com (or similar) asking for travel details to book your trip. Please, do not reply to these emails; this is not an official workshop communication from theoryxfel@gmail.com.</p><br><br></div>
   
 <b>Scientific Committee:</b> 
 <ul>
