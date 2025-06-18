@@ -122,7 +122,7 @@ Provisory schedule (bound to changes).
     <td class="tg-amwm"> </td>
   </tr>
   <tr>
-    <td class="tg-amwm">20:30</td>
+    <td class="tg-amwm">20:00</td>
     <td class="tg-amwm"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
     <td class="tg-amwm"> </td>
   </tr>
