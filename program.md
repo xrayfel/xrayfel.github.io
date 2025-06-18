@@ -118,13 +118,11 @@ Provisory schedule (bound to changes).
   <tr>
     <td class="tg-amwm">18:00</td>
     <td class="tg-yhs8" rowspan="2"><span style="color:black">Welcome reception</span></td>
-    <td class="tg-amwm"> </td>
-    <td class="tg-amwm"> </td>
+    <td class="tg-amwm" rowspan="2"> </td>
+    <td class="tg-amwm" rowspan="2"> </td>
   </tr>
   <tr>
     <td class="tg-amwm">20:00</td>
-    <td class="tg-amwm"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
-    <td class="tg-amwm"> </td>
   </tr>
 </tbody></table>
   
