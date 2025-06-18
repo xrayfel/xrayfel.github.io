@@ -45,14 +45,8 @@ Provisory schedule (bound to changes).
     <td class="tg-amwm">TBA</td>
   </tr>
   <tr>
-    <td class="tg-baqh" > </td>
-    <td class="tg-mezc" rowspan="15"> <br> <br> <br> <br><br></td>
-    <td class="tg-mezc"><!--<span style="color:black">High Energy Density/Gas phase</span><br><span style="color:black">(</span>Chair: Olivier Peyrusse<span style="color:black">)</span>-->
-    </td>
-    <td class="tg-mezc"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
-  </tr>
-  <tr>
     <td class="tg-amwm">09:30</td>
+    <td class="tg-mezc" rowspan="14"> <br> <br> <br> <br><br></td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/HPiniAStYFW5HL8">André Severo Pereira Gomes</a>--></td>
     <td class="tg-ve5o"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
   </tr>
@@ -125,12 +119,12 @@ Provisory schedule (bound to changes).
     <td class="tg-amwm">18:00</td>
     <td class="tg-yhs8" rowspan="2">Welcome reception</td>
     <td class="tg-amwm"> </td>
-    <td class="tg-baqh"> </td>
+    <td class="tg-amwm"> </td>
   </tr>
   <tr>
     <td class="tg-amwm">20:30</td>
-    <td class="tg-ve5o"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
-    <td class="tg-ve5o"> </td>
+    <td class="tg-amwm"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
+    <td class="tg-amwm"> </td>
   </tr>
 </tbody></table>
   
