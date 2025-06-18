@@ -57,8 +57,8 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">11:00</td>
-    <td class="tg-yhs8">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a>--></td>
-    <td class="tg-yhs8">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a>--></td>
+    <td class="tg-yhs8"><span style="color:black">Coffee</span><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a>--></td>
+    <td class="tg-yhs8"><span style="color:black">Coffee</span><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">11:30</td>
@@ -72,8 +72,8 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">12:30</td>
-    <td class="tg-yhs8">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/so57gtJA4jKPK3y">Carlo Camilloni</a>--></td>
-    <td class="tg-yhs8">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/GM9Pm5NF6yfR8k4">Patricia Vindel-Zandgergen</a>--></td>
+    <td class="tg-yhs8"><span style="color:black">Lunch</span><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/so57gtJA4jKPK3y">Carlo Camilloni</a>--></td>
+    <td class="tg-yhs8"><span style="color:black">Lunch</span><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/GM9Pm5NF6yfR8k4">Patricia Vindel-Zandgergen</a>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">14:00</td>
@@ -117,7 +117,7 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">18:00</td>
-    <td class="tg-yhs8" rowspan="2">Welcome reception</td>
+    <td class="tg-yhs8" rowspan="2"><span style="color:black">Welcome reception</span></td>
     <td class="tg-amwm"> </td>
     <td class="tg-amwm"> </td>
   </tr>
