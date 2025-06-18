@@ -47,15 +47,14 @@ Provisory schedule (bound to changes).
   <tr>
     <td class="tg-baqh" > </td>
     <td class="tg-mezc" rowspan="15"> <br> <br> <br> <br><br></td>
-    <td class="tg-yye0"><!--<span style="color:black">High Energy Density/Gas phase</span><br><span style="color:black">(</span>Chair: Olivier Peyrusse<span style="color:black">)</span>-->
+    <td class="tg-mezc"><!--<span style="color:black">High Energy Density/Gas phase</span><br><span style="color:black">(</span>Chair: Olivier Peyrusse<span style="color:black">)</span>-->
     </td>
-    <td class="tg-yye0"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
+    <td class="tg-mezc"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">09:30</td>
-    <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/HFDX2oRLBE8GJgd">Frank Rosmej</a>--></td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/HPiniAStYFW5HL8">André Severo Pereira Gomes</a>--></td>
-    <td class="tg-yye0"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
+    <td class="tg-ve5o"><!--<span style="color:black">Gas phase</span><br><span style="color:black">(</span>Chair: Nicolas Sisourat<span style="color:black">)</span>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30</td>
@@ -64,13 +63,13 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">11:00</td>
-    <td class="tg-ve5o">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a>--></td>
-    <td class="tg-ve5o">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a>--></td>
+    <td class="tg-yhs8">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/iRfw9oYMzmnYwxF">Nicolas Sisourat</a>--></td>
+    <td class="tg-yhs8">Coffee<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/8nPQsrSRrTM8PiA">Trond Saue</a>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">11:30</td>
-    <td class="tg-yhs8"><span style="color:black"></span></td>
-    <td class="tg-yhs8"><span style="color:black"></span></td>
+    <td class="tg-ve5o"></td>
+    <td class="tg-ve5o"></td>
   </tr>
   <tr>
     <td class="tg-amwm">12:00</td>
@@ -79,8 +78,8 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">12:30</td>
-    <td class="tg-ve5o">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/so57gtJA4jKPK3y">Carlo Camilloni</a>--></td>
-    <td class="tg-ve5o">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/GM9Pm5NF6yfR8k4">Patricia Vindel-Zandgergen</a>--></td>
+    <td class="tg-yhs8">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/so57gtJA4jKPK3y">Carlo Camilloni</a>--></td>
+    <td class="tg-yhs8">Lunch<!--<a target="_blank" href="https://amubox.univ-amu.fr/s/GM9Pm5NF6yfR8k4">Patricia Vindel-Zandgergen</a>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">14:00</td>
@@ -110,29 +109,28 @@ Provisory schedule (bound to changes).
   <tr>
     <td class="tg-amwm">16:30</td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/m2zwkcRBn8MfyjF">Nanna List</a> <span style="color:black">(online)</span>--></td>
-    <td class="tg-fe66"><!--<span style="color:black">Majed Chergui</span>--></td>
+    <td class="tg-ve5o"><!--<span style="color:black">Majed Chergui</span>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">17:00</td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/qszK4DKayZRiA9s">David Ayuso</a>--></td>
-    <td class="tg-fe66"><!--<span style="color:black">Open discussion</span>--></td>
+    <td class="tg-ve5o"><!--<span style="color:black">Open discussion</span>--></td>
   </tr>
   <tr>
     <td class="tg-amwm">17:30</td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/m3Yfsn37jJJNG8y">Woojin Park</a>--></td>
-    <td class="tg-yhs8"><span style="color:black"></span></td>
+    <td class="tg-ve5o"></td>
   </tr>
   <tr>
     <td class="tg-amwm">18:00</td>
-    <td class="tg-ve5o">Welcome reception</td>
+    <td class="tg-yhs8" rowspan="2">Welcome reception</td>
     <td class="tg-amwm"> </td>
     <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-amwm">20:30</td>
-    <td class="tg-baqh"> </td>
-    <td class="tg-yhs8"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
-    <td class="tg-baqh"> </td>
+    <td class="tg-ve5o"><!--<span style="color:black">Gala dinner:</span><br><span style="color:black">Restaurant Les Arcenaulx*</span>--></td>
+    <td class="tg-ve5o"> </td>
   </tr>
 </tbody></table>
   
