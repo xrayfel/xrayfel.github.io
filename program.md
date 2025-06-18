@@ -88,7 +88,7 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">13:00</td>
-    <td class="tg-yhs8"><span style="color:black">Welcome</span></td>
+    <td class="tg-yhs8"><span style="color:black"></span></td>
     <td class="tg-yhs8"><span style="color:black">Lunch</span></td>
     <td class="tg-yhs8"><span style="color:black">Lunch</span></td>
   </tr>
@@ -100,7 +100,7 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">14:30</td>
-    <td class="tg-9hzb"><span style="color:black">Opening (14:50)</span></td>
+    <td class="tg-9hzb"><span style="color:black"></span></td>
     <td class="tg-ve5o"><!--<a href="https://amubox.univ-amu.fr/s/cXmM7QxeYLHMfX5" target="_blank">Francesco Sottile</a>--></td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/Noodytk8ZnNsq67">Eva Muchova</a>--></td>
   </tr>
@@ -130,7 +130,7 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">16:30</td>
-    <td class="tg-yhs8"><span style="color:black">Coffee break</span></td>
+    <td class="tg-yhs8"><span style="color:black"></span></td>
     <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/m2zwkcRBn8MfyjF">Nanna List</a> <span style="color:black">(online)</span>--></td>
     <td class="tg-fe66"><!--<span style="color:black">Majed Chergui</span>--></td>
   </tr>
@@ -148,7 +148,7 @@ Provisory schedule (bound to changes).
   </tr>
   <tr>
     <td class="tg-amwm">18:00</td>
-    <td class="tg-ve5o"><!--<a target="_blank" href="https://amubox.univ-amu.fr/s/RjSkwJ2Mr2DNoD4">Aldo Artimez-Pena</a>--></td>
+    <td class="tg-ve5o">Welcome reception</td>
     <td class="tg-amwm"> </td>
     <td class="tg-baqh"> </td>
   </tr>
