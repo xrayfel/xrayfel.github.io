@@ -14,8 +14,8 @@
 }
 </style>
 <body>
-Registration is open. For more information, please write: theoryxfel@gmail.com
-<iframe src="https://framaforms.org/registration-workshop-theoryxfel-2025-1742565602" width="100%" height="800" border="0"></iframe>
+Registration is now closed For more information, please write: theoryxfel@gmail.com
+<!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-2025-1742565602" width="100%" height="800" border="0"></iframe>-->
 <!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-1718114984" width="100%" height="800" border="0"></iframe>-->
 </body>
 </html>
