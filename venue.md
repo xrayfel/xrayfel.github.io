@@ -23,9 +23,9 @@ title: Theory around XFELs
 
 The workshop will be held at the amphitheater of the Chevreul Institute, at the <i>Cité Scientifique</i> campus of the University of Lille.<br>
 
-<img source="images/lille1.jpg">
-<img source="images/lille2.jpg">
-<img source="images/lille3.jpg">
+<image source="./images/lille1.jpg">
+<image source="./images/lille2.jpg">
+<image source="./images/lille3.jpg">
 
 <b>Address:</b> Chevreul Institute, Cité Scientifique, Avenue Paul Langevin 59655 Villeneuve d'Ascq, France. Further directions to the site: <href>https://chevreul.univ-lille.fr/en/contact</href><br>
 
