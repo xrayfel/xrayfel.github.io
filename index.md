@@ -20,12 +20,12 @@
   
 <b>Scientific Committee:</b> 
 <ul>
-  <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
-  <li> Marie Labeye, <i>Chimie Physique et Chimie du Vivant</i>, ENS PSL </li>
   <li> Andre Severo Pereira Gomes, <i>Laboratoire de Physique des Lasers, Atomes et Molécules</i>, Lille University </li>
   <li> Valérie Vallet, <i>Laboratoire de Physique des Lasers, Atomes et Molécules</i>, Lille University </li>
+  <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
   <li> Pina Romaniello, <i>Laboratoire de Physique Théorique</i>, Toulouse University </li>
   <li> Nicolas Sisourat, <i>Laboratoire de Chimie Physique Matière et Rayonnement</i>, Sorbonne University </li>
+  <li> Marie Labeye, <i>Chimie Physique et Chimie du Vivant</i>, ENS PSL </li>
 </ul>
 </body>
 </html>
