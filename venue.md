@@ -1,6 +1,3 @@
----
-title: Theory around XFELs
----
 
 <html>
 
