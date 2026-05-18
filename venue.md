@@ -28,9 +28,11 @@ Further directions to the site, click <a href="https://chevreul.univ-lille.fr/en
 
 <table>
   <thead>
-    <tr><image src="./images/lille1.jpg"></tr>
-    <th><image src="./images/lille2.jpg"></th>
-    <td><image src="./images/lille3.jpg"></td>
+    <tr>
+      <th><img src="./images/lille1.jpg" alt="Lille 1"></th>
+      <th><img src="./images/lille2.jpg" alt="Lille 2"></th>
+      <th><img src="./images/lille3.jpg" alt="Lille 3"></th>
+    </tr>
   </thead>
 </table><br><br><br>
 
