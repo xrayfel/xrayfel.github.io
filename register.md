@@ -14,8 +14,9 @@
 }
 </style>
 <body>
-Registration is coming soon.
+Registration is now open.
 <!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-2025-1742565602" width="100%" height="800" border="0"></iframe>-->
 <!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-1718114984" width="100%" height="800" border="0"></iframe>-->
+<iframe src=<a class="moz-txt-link-rfc2396E" href="https://framaforms.org/theory-around-x-ray-spectroscopies-1779120014">"https://framaforms.org/theory-around-x-ray-spectroscopies-1779120014"</a> width="100%" height="800" border="0"></iframe>
 </body>
 </html>
