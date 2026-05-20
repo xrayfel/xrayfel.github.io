@@ -19,6 +19,7 @@
     <li>	<b>Eleonora Luppi</b>,	Sorbonne University, Paris, France.	</li> 
     <li>	<b>Arjan Berger</b>,	Toulouse University, Toulouse, France.	</li> 
     <li>	<b>Marc Alías-Rodríguez</b>,	Universitat Rovira i Virgili, Tarragona, Spain.	</li> 
+    <li>	<b>Francesco Segatta</b>,	University of Bologna, Bologna, Italy.	</li> 
 <!-- <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li> -->
 <!-- <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li> -->
 <!-- <li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li> -->
