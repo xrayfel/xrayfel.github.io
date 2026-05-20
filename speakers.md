@@ -17,6 +17,7 @@
 <h3>List of confirmed speakers:</h3>
   <ul>
     <li>	<b>Eleonora Luppi</b>,	Sorbonne University, Paris, France.	</li> 
+    <li>	<b>Iulia Emilia Brumboiu</b>,	Nicolaus Copernicus University, Torun, Poland.	</li> 
     <li>	<b>Arjan Berger</b>,	Toulouse University, Toulouse, France.	</li> 
     <li>	<b>Marc Alías-Rodríguez</b>,	Universitat Rovira i Virgili, Tarragona, Spain.	</li> 
     <li>	<b>Francesco Segatta</b>,	University of Bologna, Bologna, Italy.	</li> 
