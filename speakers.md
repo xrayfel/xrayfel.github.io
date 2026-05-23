@@ -23,6 +23,7 @@
     <li>	<b>Francesco Segatta</b>,	University of Bologna, Bologna, Italy.	</li> 
     <li>	<b>Morgane Vacher</b>, Université de Nantes, Nantes, France.	</li> 
     <li>	<b>Robert Polly</b>, KIT Karlsruhe, Karlsruhe, Germany.	</li> 
+    <li>  <b>Sarai Folkestad</b>, NTNU Trondheim, Trondheim, Norway.</li>
     <li>	<b>Kristina Kvashnina</b>, European Synchrotron Radiation Facility, Grenoble, France.	</li> 
 <!-- <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li> -->
 <!-- <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li> -->
