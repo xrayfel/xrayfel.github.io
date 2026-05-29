@@ -21,7 +21,8 @@
     <li>	<b>Arjan Berger</b>,	Toulouse University, Toulouse, France.	</li> 
     <li>	<b>Marc Alías-Rodríguez</b>,	Universitat Rovira i Virgili, Tarragona, Spain.	</li> 
     <li>	<b>Francesco Segatta</b>,	University of Bologna, Bologna, Italy.	</li> 
-    <li>	<b>Morgane Vacher</b>, Université de Nantes, Nantes, France.	</li> 
+    <li>	<b>Morgane Vacher</b>, Université de Nantes, Nantes, France.	</li>
+    <li>	<b>Basile Curchod</b>, Bristol University, Bristol, France.	</li> 
     <li>	<b>Robert Polly</b>, KIT Karlsruhe, Karlsruhe, Germany.	</li> 
     <li>  <b>Sarai Folkestad</b>, NTNU Trondheim, Trondheim, Norway.</li>
     <li>	<b>Fábris Kossoski</b>,	Toulouse University, Toulouse, France.	</li> 
