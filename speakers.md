@@ -30,7 +30,7 @@
 <!--    <li>	<b>Eva Muchová</b>,	UCT Prague, Prague, Czech Republic	</li> -->
     <li>	<b>Oriol Vendrell</b>,	Heidelberg University, Heidelberg, France.	</li> 
     <li>	<b>Kristina Kvashnina</b>, European Synchrotron Radiation Facility, Grenoble, France.	</li> 
-<!-- <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li> -->
+    <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li>
 <!-- <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li> -->
 <!-- <li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li> -->
 <!-- <li>	<b>Carlo	Camilloni</b>,	Dipartimento di Bioscienze, Università degli Studi di Milano, Milano, Italy. 	</li> -->
