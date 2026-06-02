@@ -16,7 +16,7 @@
 <body>
 <p>The third edition of Theory@XFEL workshop will take place from <b>3rd to 5th of November 2026</b> in <b>Lille</b>. The workshop will gather together theoreticians and experimentalists with physics, chemistry and biology backgrounds to discuss the state-of-the-art, future prospects and opportunities of theoretical simulations related to X-ray free electron lasers.</p>
 
-<p>Registration is free but compulsory.</p>
+<p>Registration is free but compulsory. Only on-site participation is accepted.</p>
 
 <p>Registration is <a href="https://xrayfel.github.io/register.html">open.</a></p>
 
