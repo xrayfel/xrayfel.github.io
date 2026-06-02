@@ -14,7 +14,7 @@
 }
 </style>
 <body>
-Registration is now open.<br><br>
+Registration is now open. Only on-site participation is accepted.<br><br>
 <!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-2025-1742565602" width="100%" height="800" border="0"></iframe>-->
 <!--<iframe src="https://framaforms.org/registration-workshop-theoryxfel-1718114984" width="100%" height="800" border="0"></iframe>-->
 <iframe src="https://framaforms.org/theory-around-x-ray-spectroscopies-1779120014" width="100%" height="800" border="0"></iframe>
