@@ -26,6 +26,8 @@
     <li>	<b>Robert Polly</b>, KIT Karlsruhe, Karlsruhe, Germany.	</li> 
     <li>  <b>Sarai Folkestad</b>, NTNU Trondheim, Trondheim, Norway.</li>
     <li>	<b>Fábris Kossoski</b>,	Toulouse University, Toulouse, France.	</li> 
+<!--    <li>	<b>Petr Slavíček</b>,	UCT Prague, Prague, Czech Republic.	</li> -->
+<!--    <li>	<b>Eva Muchová</b>,	UCT Prague, Prague, Czech Republic	</li> -->
     <li>	<b>Oriol Vendrell</b>,	Heidelberg University, Heidelberg, France.	</li> 
     <li>	<b>Kristina Kvashnina</b>, European Synchrotron Radiation Facility, Grenoble, France.	</li> 
 <!-- <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li> -->
