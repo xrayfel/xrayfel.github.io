@@ -31,6 +31,7 @@
     <li>	<b>Oriol Vendrell</b>,	Heidelberg University, Heidelberg, Germany	</li> 
     <li>	<b>Kristina Kvashnina</b>, European Synchrotron Radiation Facility, Grenoble, France.	</li> 
     <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li>
+    <li>	<b>Davide Sangalli</b>,	Italian National Research Council, Milano, Italy.	</li>
 <!-- <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li> -->
 <!-- <li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li> -->
 <!-- <li>	<b>Carlo	Camilloni</b>,	Dipartimento di Bioscienze, Università degli Studi di Milano, Milano, Italy. 	</li> -->
