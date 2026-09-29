@@ -20,10 +20,10 @@
     <li>	<b>Iulia Emilia Brumboiu</b>,	Nicolaus Copernicus University, Torun, Poland.	</li> 
     <li>	<b>Arjan Berger</b>,	Toulouse University, Toulouse, France.	</li> 
     <li>	<b>Marc Alías-Rodríguez</b>,	Universitat Rovira i Virgili, Tarragona, Spain.	</li> 
-    <li>	<b>Eva Muchová</b>,	UCT Prague, Prague, Czech Republic	</li>
+    <li>	<b>Stéphane Carniato</b>,	LCPMR, Sorbonne University, France.	</li>
     <li>	<b>Francesco Segatta</b>,	University of Bologna, Bologna, Italy.	</li> 
     <li>	<b>Morgane Vacher</b>, Université de Nantes, Nantes, France.	</li>
-    <li>	<b>Basile Curchod</b>, Bristol University, Bristol, UK	</li> 
+    <li>	<b>Antonio Picón</b>, CSIC, Madrid, Spain.	</li> 
     <li>	<b>Robert Polly</b>, KIT Karlsruhe, Karlsruhe, Germany.	</li> 
     <li>  <b>Sarai Folkestad</b>, NTNU Trondheim, Trondheim, Norway.</li>
     <li>	<b>Fábris Kossoski</b>,	Toulouse University, Toulouse, France.	</li> 
@@ -32,6 +32,7 @@
     <li>	<b>Kristina Kvashnina</b>, European Synchrotron Radiation Facility, Grenoble, France.	</li> 
     <li>	<b>David Ayuso</b>,	Queen Mary University of London, UK.	</li>
     <li>	<b>Davide Sangalli</b>,	Italian National Research Council, Milano, Italy.	</li>
+    <li>	<b>Woojin Park</b>,	University of Dortmund, Dortmund, Germany.	</li>
     <li>	<b>Thomas Jagau</b>,	KU Leuven, Leuven, Belgium.	</li>
 <!-- <li>	<b>Mandy Bethkenhagen</b>, LULI, Institut Polytechnique de Paris, France.	</li> -->
 <!-- <li>	<b>Delphine Cabaret</b>, IMPMC, Sorbonne Université, France.	</li> -->
