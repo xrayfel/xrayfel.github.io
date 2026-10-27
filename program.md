@@ -143,8 +143,6 @@ footer {
 
 <main class="wrap">
   <h2>Scientific program</h2>
-  <p class="intro">All times are local to Lille.</p>
-
   <section class="day">
     <h3>Tuesday, 3 November 2026</h3>
     <div class="table-scroll">
