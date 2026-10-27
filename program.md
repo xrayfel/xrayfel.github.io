@@ -311,8 +311,8 @@ footer {
         </tr>
         <tr class="break-row">
           <td class="time">19:30</td>
-          <td class="speaker"><strong>Peniche Archimede</strong></td>
-          <td class="talk">Dinner / social event</td>
+          <td class="speaker"><strong><a href="https://www.penichearchimede.fr" target="_blank"> Peniche Archimede</a></strong></td>
+          <td class="talk">Workshop dinner (Façade de l'Esplanade, 59000 Lille)</td>
         </tr>
       </tbody>
     </table>
