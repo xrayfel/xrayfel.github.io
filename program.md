@@ -378,13 +378,9 @@ footer {
   </section>
 </main>
 
-<footer>
-  <div class="wrap">Theory@XFEL · Workshop program · 3–5 November 2026</div>
-</footer>
 
 </body>
 </html>
 
-</body>
-</html>
+
 
