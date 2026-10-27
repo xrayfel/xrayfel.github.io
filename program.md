@@ -27,6 +27,16 @@ header {
   background: var(--blue);
   color: white;
 }
+.page-header {
+  color: white;
+  text-align: center;
+  background-color: white;
+  background-image: url("./images/FELheader.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+
+}
 .wrap {
   width: min(1120px, calc(100% - 2rem));
   margin: 0 auto;
@@ -130,13 +140,6 @@ footer {
 </style>
 </head>
 <body>
-
-<header>
-  <div class="wrap">
-    <h1>Theory around X-ray Spectroscopies (Theory@XFEL)</h1>
-    <p>Workshop · 3–5 November 2026 · University of Lille, France</p>
-  </div>
-</header>
 
 <main class="wrap">
   <h2>Scientific program</h2>
