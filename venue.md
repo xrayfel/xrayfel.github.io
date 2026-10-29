@@ -27,7 +27,7 @@ Further directions to the site, click <a href="https://www.iemn.fr/en/contact" t
 <table>
   <thead>
     <tr>
-      <th><img src="./images/lille1.jpg" alt="Lille 1"></th>
+      <th><img src="./images/lille1.png" alt="Lille 1"></th>
     </tr>
   </thead>
 </table><br><br><br>
