@@ -44,9 +44,6 @@ The best option is to go with metro line 1 from the main train station <i>Gare L
 
 There are various hotels near the Gare Lille Flandres, Gare Lille Europe or Rihour metro stations, which are conveniently close to the metro line 1 to go to "4 Cantons Stade P. Mauroy".
 
-<h1>Where to Eat, Drink & Enjoy in Lille?</h1>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1b2tO5U9UBIfGU2ch9__MKxVCGmOfwcw&hl=fr&ehbc=2E312F" width="640" height="480"></iframe>
 
 </body>
 </html>
