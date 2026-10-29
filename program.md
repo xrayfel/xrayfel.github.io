@@ -360,7 +360,7 @@ footer {
         <tr>
           <td class="time">12:15–12:45</td>
           <td class="speaker"><strong>Eleonora Luppi</strong><span class="affiliation">Sorbonne University</span></td>
-          <td class="talk">How Electronic Structure Shapes Spectroscopic Signals</td>
+          <td class="talk">Ab Initio Electronic Spectroscopy in Solids: From Optical Excitations to Soft X-Ray Second-Harmonic Generation</td>
         </tr>
         <tr class="break-row">
           <td class="time">12:45–12:50</td>
